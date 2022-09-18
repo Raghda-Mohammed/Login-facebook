@@ -1,0 +1,104 @@
+body{
+    	margin: 0;
+    	padding: 0;
+    	font-family: sans-serif;
+    	background-color: #f0f2f3;
+    	background-size: cover;
+    	background-position: center;
+    }
+    h1 {
+		position: absolute;
+        color: #1853f8;
+		left: 660px;
+		top: 10px;
+		bottom: 720px;
+       font-size: 50px;
+    }
+    .sign-up-from {
+		position: relative;
+    	width: 400px;
+    	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    	background: #fff;
+        border-radius: 10px;
+    	padding: 20px;
+    	margin: 8% auto 0;
+    	text-align: center;
+    }
+
+    .sign-up-from h2 {
+    	color: #1853f8;
+    	margin-bottom: 30px;
+    }
+
+	/* .valid {
+		width: 0px;
+	} */
+
+    .input-box {
+    	border-radius: 10px;
+    	padding: 10px;
+    	margin: 10px 0;
+    	width: 90%;
+    	border: 1px solid rgb(209, 208, 208);
+    	outline: none;
+    }
+
+    button {
+    	color: white; 
+    	width: 100%;
+    	padding: 10px;
+    	border-radius: 10px;
+    	font-size: 15px;
+    	margin: 10px 0;
+    	border: none;
+    	outline: none;
+    	cursor: pointer;
+    }
+   
+    .signUp-btn {
+    	background-color: #1853f8;
+		width: 380px;
+		
+    }
+
+    .Twitter-btn {
+    	background-color: #06d121;
+		
+		width: 250PX;
+		height: 50PX;
+    }
+
+	.Twitter-btn .a {
+        color: white;
+	}
+
+    a {
+    	text-decoration: none;
+		color: white;
+    }
+
+    hr {
+    	margin-top: 20px;
+    	width: 80%;
+    }
+    .or {
+    	background: #fff;
+    	width: 30px;
+    	margin:  -19px auto 10px;
+    }
+
+
+/* Facebook */
+
+	.icon {
+		color: blue;
+		margin-left: 650px;
+		margin-top: 210px;
+		font-size: 250px;
+	}
+	
+
+
+
+
+
